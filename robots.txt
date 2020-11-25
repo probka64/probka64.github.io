@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /images
+Disallow: /js
+Disallow: /photo.php 
+Disallow: /send.php 
+Disallow: /send.php 
+Disallow: /links.html
+Sitemap: http://www.probka64.ru/sitemap.xml
